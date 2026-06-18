@@ -51,9 +51,7 @@ python scraper.py
 
 ## 📽️ فيديو توضيحي
 
-[رابط الفيديو على YouTube]
-https://youtube.com/shorts/-AT-vl3ZYSk?si=5UoVdjx8E21hs_aY
-
+[رابط الفيديو على YouTube](https://youtube.com/shorts/-AT-vl3ZYSk?si=5UoVdjx8E21hs_aY)
 ---
 
 ## 👩‍💻 عني
