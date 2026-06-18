@@ -61,6 +61,6 @@ https://youtube.com/shorts/-AT-vl3ZYSk?si=5UoVdjx8E21hs_aY
 أنا **نرجس العمري**، مطورة أتمتة عمليات باستخدام Python.  
 أساعد الشركات والمكاتب على توفير الوقت والجهد عن طريق أتمتة المهام المتكررة.
 
-🔗 **لينكد إن:**   https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
 
-🐙 **GitHub:**https://github.com/Narjes455
+🔗 [LinkedIn](https://www.linkedin.com/in/%D9%86%D8%B1%D8%AC%D8%B3-%D8%A7%D9%84%D8%B9%D9%85%D8%B1%D9%8A-757b68273?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+🐙 [GitHub](https://github.com/Narjes455)
